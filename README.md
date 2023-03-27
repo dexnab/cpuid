@@ -18,13 +18,13 @@ Plsease refer to programmer's manual of the architecture for more details.
 
 ### intel
 
-Intel® 64 and IA-32 Architectures Software Developer’s Manual: [https://www.intel.com/content/www/us/en/content-details/774494/intel-64-and-ia-32-architectures-software-developer-s-manual-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4.html?wapkw=instructin%20set%20architecture]
+Intel® 64 and IA-32 Architectures Software Developer’s Manual: <https://www.intel.com/content/www/us/en/content-details/774494/intel-64-and-ia-32-architectures-software-developer-s-manual-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4.html?wapkw=instructin%20set%20architecture>
 
 cpuid instruction is in volume 2 (Instruction Set Reference, A-Z), chapter 3.3 (INSTRUCTIONS (A-L)), page 813.
 
 ### amd
 
-AMD64 Architecture Programmer’s Manual Volumes 1–5: [https://www.amd.com/system/files/TechDocs/40332.pdf]
+AMD64 Architecture Programmer’s Manual Volumes 1–5: <https://www.amd.com/system/files/TechDocs/40332.pdf>
 
 cpuid instruction is in volume 3 (General-Purpose and System Instructions), chapter 3 (General-Purpose Instruction Reference), page 1405.
 
